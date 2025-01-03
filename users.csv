@@ -1,0 +1,5 @@
+ID,Firstname,Lastname,Email,Status
+100,James,John,james@email.com,active
+101,Mary,Joseph,mary@email.com,active
+102,Tom,Mandy,tom@email.com,not-active
+103,Dan,Thomas,thomas@email.com,active
